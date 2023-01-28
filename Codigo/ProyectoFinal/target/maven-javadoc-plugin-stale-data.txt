@@ -1,0 +1,45 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+Clases
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java/Clases/ClasificadorPalabras.java'
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java/Clases/MenuProyecto.java'
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java/Clases/PalabrasDesordenadas.java'
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java/Clases/Principal.java'
+'C:/Users/fscar/Documents/Universidad_Hispanoamericana/Programación_I_INFO_103/Proyecto final/CarlosPerezPerez_Proyecto/Proyecto/ProyectoFinal1.0/ProyectoFinal/src/main/java/Clases/TriviaMatematica.java'
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\src\main\java = 1637642968000
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\allclasses-frame.html = 1639234298063
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\allclasses-noframe.html = 1639234298071
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\constant-values.html = 1639234297970
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\deprecated-list.html = 1639234298060
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\help-doc.html = 1639234298077
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\index-all.html = 1639234298053
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\index.html = 1639234298073
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\overview-tree.html = 1639234298041
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\package-list = 1639234297940
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\script.js = 1639234298079
+C:\Users\fscar\Documents\Universidad_Hispanoamericana\Programación_I_INFO_103\Proyecto final\CarlosPerezPerez_Proyecto\Proyecto\ProyectoFinal1.0\ProyectoFinal\target\site\apidocs\stylesheet.css = 1638503484000
